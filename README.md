@@ -28,35 +28,36 @@ Desarrollo web ___responsive desing___ y ___reactivo___ con tecnologías estanda
 
 ### ___Tecnologías___
 
-<center>
+<div align="center">
 
 <img src="images/html.svg" width="150" height="150"/>
 <img src="images/css.svg" width="150" height="150"/>
 <img src="images/js.svg" width="150" height="150"/>
 
-</center>
+</div>
+
 <progress></progress>
 <br />
 
 ### ___Pre-procesador CSS___
 
-<center>
+<div align="center">
 
 <img src="images/sass.svg" width="150" height="150"/>
 
-</center>
+</div>
 <progress></progress>
 <br />
 
 ### ___Frameworks___
 
-<center>
+<div align="center">
 
 <img src="images/react.svg" width="150" height="150"/>
 <img src="images/vue.svg" width="150" height="150"/>
 <img src="images/tailwind.png" width="150" height="150"/>
 
-</center>
+</div>
 <progress></progress>
 <br />
 
@@ -75,26 +76,26 @@ Desarrollo de aplicaciones web y ___APIRest___ con las siguientes tecnologías:
 
 ### ___Tecnologías___
 
-<center>
+<div align="center">
 
 <img src="images/php.svg" width="150" height="150"/>
 <img src="images/node.png" width="150" height="130"/>
 <img src="images/sql.svg" width="150" height="150"/>
 <img src="images/apache.svg" width="150" height="150"/>
 
-</center>
+</div>
 
 <progress></progress>
 <br />
 
 ### ___Frameworks___
 
-<center>
+<div align="center">
 
 <img src="images/express.png" width="150" height="150"/>
 <img src="images/nuxt.png" width="150" height="150"/>
 <img src="images/laravel.png" width="150" height="150"/>
 
-</center>
+</div>
 
 <progress></progress>
