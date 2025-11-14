@@ -1,32 +1,32 @@
->Amar siempre lo que haces...
+> Ama siempre lo que haces...
+
 <div align="right">
 
-# Darren Michael (___MDMGN___)
+# Darren Michael (***MDMGN***)
 
 </div>
 
+## ***Web Developer***
 
-## ___Web Developer___
-
-Soy desarrallador web con 2 años de expriencias en diferentes tecnologias.
+Soy desarrollador web con 2 años de experiencia en diferentes tecnologías.
 
 ```js
-    return {
-        CV: MiExpreriencia, 
-        getStart:()=> document.write(this.MiExperiencia);
-    }
-    this.getStart();
-````
+return {
+    CV: MiExperiencia,
+    getStart: () => document.write(this.MiExperiencia),
+}
+this.getStart();
+```
 
 <br />
 
-## __Frontend__
+## **Frontend**
 
-Desarrollo web ___responsive desing___ y ___reactivo___ con tecnologías estandar o algún framework. 
+Desarrollo web ***responsive design*** y ***reactivo*** usando tecnologías estándar o frameworks modernos.
 
 <br/>
 
-### ___Tecnologías___
+### ***Tecnologías***
 
 <div align="center">
 
@@ -36,20 +36,19 @@ Desarrollo web ___responsive desing___ y ___reactivo___ con tecnologías estanda
 
 </div>
 
-<progress></progress>
-<br />
+<progress></progress> <br />
 
-### ___Pre-procesador CSS___
+### ***Preprocesador CSS***
 
 <div align="center">
 
 <img src="images/sass.svg" width="150" height="150"/>
 
 </div>
-<progress></progress>
-<br />
 
-### ___Frameworks___
+<progress></progress> <br />
+
+### ***Frameworks***
 
 <div align="center">
 
@@ -58,23 +57,23 @@ Desarrollo web ___responsive desing___ y ___reactivo___ con tecnologías estanda
 <img src="images/tailwind.png" width="150" height="150"/>
 
 </div>
-<progress></progress>
-<br />
 
-## __Backend__
+<progress></progress> <br />
 
-Desarrollo de aplicaciones web y ___APIRest___ con las siguientes tecnologías:
+## **Backend**
+
+Desarrollo aplicaciones web y ***API REST*** con las siguientes tecnologías:
 
 ```php
-    $printer=[
-        'cv'=> $miExpreriencia
-    ];
-    echo $printer['cv'];
+$printer = [
+    'cv' => $miExperiencia
+];
+echo $printer['cv'];
 ```
 
 <br/>
 
-### ___Tecnologías___
+### ***Tecnologías***
 
 <div align="center">
 
@@ -85,10 +84,9 @@ Desarrollo de aplicaciones web y ___APIRest___ con las siguientes tecnologías:
 
 </div>
 
-<progress></progress>
-<br />
+<progress></progress> <br />
 
-### ___Frameworks___
+### ***Frameworks***
 
 <div align="center">
 
