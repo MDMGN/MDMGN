@@ -8,7 +8,7 @@
 
 ## ***Web Developer***
 
-Soy desarrollador web con 2 años de experiencia en diferentes tecnologías.
+Soy desarrollador web con 4 años de experiencia en diferentes tecnologías.
 
 ```js
 return {
